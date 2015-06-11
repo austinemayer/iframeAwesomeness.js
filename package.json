@@ -1,0 +1,32 @@
+{
+  "name": "iframeawesomeness.js",
+  "version": "1.0.0",
+  "description": "Get rid of old school iframes.",
+  "main": "iframeAwesomeness.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austinemayer/iframeAwesomeness.js.git"
+  },
+  "keywords": [
+    "iframe",
+    "html",
+    "js",
+    "awesomeness"
+  ],
+  "contributors": [
+    "Austin Mayer",
+    "Alex Ordonez"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austinemayer/iframeAwesomeness.js/issues"
+  },
+  "homepage": "https://github.com/austinemayer/iframeAwesomeness.js#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-uglify": "^1.2.0"
+  }
+}
