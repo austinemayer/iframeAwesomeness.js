@@ -1,0 +1,1 @@
+$(document).ready(function(){$("iframe").load(function(){var n=$("iframe");n.parent().append(n.contents().find("body").contents()),n.remove()})});
